@@ -13,3 +13,8 @@
 .program{
     color:red;
 }
+.nav{
+    background-color: red;
+    margin-top: -50px;
+    height: 70px;
+}

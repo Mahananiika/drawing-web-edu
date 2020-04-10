@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url(img/1.jpg);
+    height: 500px;
+    background-position: center;
+}
+.display-4{
+    color:red;
+    
+}
+.lead{
+    color:red;
+}
+.program{
+    color:red;
+}
